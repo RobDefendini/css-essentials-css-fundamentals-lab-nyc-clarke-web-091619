@@ -1,6 +1,7 @@
 body {
   width: 100%;
   height: 100%;
+  align-content: center
   margin: 0;
 }
 h1, figure, p{  
@@ -23,7 +24,7 @@ figcaption {
 }
 p {
 width: 800px;
-align-content: center
+
 }
 div {
   float: left;
