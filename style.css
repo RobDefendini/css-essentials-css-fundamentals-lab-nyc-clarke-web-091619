@@ -30,6 +30,7 @@ figcaption {
   margin-right: auto;
 }
 div {
+  text-align: center
   float: left;
   background-color: red;
   width: 25%;
