@@ -23,6 +23,7 @@ featured-property {
   width: 800px;
 }
 figcaption {
+  text-align: center;
   font-size: 0.875em;
 }
 body p {
